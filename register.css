@@ -1,0 +1,38 @@
+body{
+    background-image: url(bg4.jpg);
+    background-repeat: no-repeat;
+    background-size: 1600px 800px;
+}
+form{
+    border: solid 1px pink;
+    width: 500px;
+    background-color: aliceblue;
+    margin-left: 100px;
+}
+h1{
+    text-align: center;
+    color: blueviolet;
+    font-size: 40px;
+}
+label{
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+}
+input{
+    width: 250px;
+    height: 30px;
+    margin-bottom: 10px;
+}
+button{
+    height: 40px;
+    width: 100px;
+    background-color:  aqua;
+    color: aliceblue;
+    font-size: 20px;
+    border-radius: 20px;
+}
+p{
+    color: black;
+    font-size: 20px;
+}
